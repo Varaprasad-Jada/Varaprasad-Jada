@@ -1,16 +1,18 @@
-## Hi there 👋
+# Vara Prasad Jada
 
-<!--
-**Varaprasad-Jada/Varaprasad-Jada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Developer & Digital Creator.
 
-Here are some ideas to get you started:
+I build software, web applications, Android applications,
+and explore Python, machine learning, AI, and independent
+digital projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+- [3D Video Player](https://github.com/Varaprasad-Jada/3d-player)
+- [AI-Driven Backtester](https://github.com/Varaprasad-Jada/ai_backtekster_project)
+- [Recipe Finder](https://github.com/Varaprasad-Jada/recipe-finder-app)
+- [VibeLink](https://github.com/Varaprasad-Jada/vibelink-web)
+
+## Website
+
+https://varaprasad-jada.github.io/
