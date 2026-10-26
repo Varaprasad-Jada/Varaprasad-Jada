@@ -8,7 +8,7 @@ I build software, web applications, Android applications, and independent digita
 
 ## Selected Projects
 
-1. **[CampusVault — WordPress Theme](https://github.com/Varaprasad-Jada/varastudy-vault)** — An open-source WordPress theme for organizing college subjects, study materials, and question papers.
+1. **[VaraStudy Vault — WordPress Theme](https://github.com/Varaprasad-Jada/varastudy-vault)** — An open-source WordPress theme for organizing college subjects, study materials, and question papers.
 2. **[VaraStudy Vault Access Control](https://github.com/Varaprasad-Jada/varastudy-vault-access-control)** — WordPress plugin for course- and semester-based contributor permissions and administrator-managed content approval.
 3. **[3D Video Player](https://github.com/Varaprasad-Jada/3d-player)** — Android multimedia player for 3D, 360°, VR, and video playback.
 4. **[AI-Driven Backtester](https://github.com/Varaprasad-Jada/ai_backtester_project)** — Python-based machine-learning backtester for technical indicators, market data, and strategy simulation.
